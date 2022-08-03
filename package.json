@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/NolanDonahue/owenWebsite/issues"
   },
-  "homepage": "https://github.com/NolanDonahue/owenWebsite#readme"
+  "homepage": "https://github.com/NolanDonahue/owenWebsite#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.1"
+  }
 }
